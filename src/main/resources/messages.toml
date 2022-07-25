@@ -1,0 +1,3 @@
+fallbackMessage = "<red>You have been connected to a fallback server, as there was an interruption in your connection to \"<server>\". You will automatically be reconnected when it's available again.<newline>You can use /stopreconnect to stop trying to reconnect."
+serverAvailableMessage = "<green>The server you were previously on is now available. You will be reconnected in 5 seconds."
+reconnectErrorMessage = "<red>Failed to reconnect to previous server:: <error><newline><gray>Reconnecting in 15 seconds..."
